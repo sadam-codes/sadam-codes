@@ -174,6 +174,6 @@ about **MERN Stack** - 📫 How to reach me **sadammuneer390@gmail.com**
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sadam-codes&"
-    alt="sadam-codes"
+    alt="streak can't show at this time"
   />
 </p>
