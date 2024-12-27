@@ -20,14 +20,6 @@ about **MERN Stack** - 📫 How to reach me **sadammuneer390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/sadam-codes" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="sadam-codes"
-      height="30"
-      width="40"
-  /></a>
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-sadam-muneer"
     target="blank"
