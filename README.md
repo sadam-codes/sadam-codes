@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **MERNStack** - 🌱 I am currently learning
 **Backend with Node.js** - 👨‍💻 All of my live projects are available at
 https://vercel.com/sadam-codes-projects - 💬 Ask me
-about **MERN Stack** - 📫 How to reach me **sadammuneer390@gmail.com**
+about **MERN Stack development** 📫 How to reach me **sadammuneer390@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
