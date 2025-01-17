@@ -162,4 +162,6 @@ about **MERN Stack development** 📫 How to reach me **sadammuneer390@gmail.com
   />
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sadam-codes&" alt="sadam-codes" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadam-codes&" alt="sadam-codes" loading="lazy" />
+</p>
