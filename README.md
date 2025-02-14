@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sadam-codes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=600" loading="lazy" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=sadam-codes&theme=dark&cache=none" loading="lazy" alt="GitHub Streak" />
+<img src="https://images.weserv.nl/?url=streak-stats.demolab.com/?user=sadam-codes&theme=dark" loading="lazy" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadam-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" loading="lazy" alt="Top Languages" />
 
 
