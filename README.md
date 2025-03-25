@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 MERN Stack Developer  <br>💻 Building Web Apps with MongoDB, Express, React, Node.js  <br>🌱 Currently Learning Next.js  <br>💬 Ask me about MERN Stack development  <br>📫 Reach me at sadam.fullstackdev@gmail.com
+🚀 MERN Stack Developer  <br>💻 Building Web Apps with MongoDB, Express, React, Node.js  <br>🌱 Currently Learning : Next.js <br>💬 Ask me about : MERN Stack development  <br>📫 Reach me through : sadam.fullstackdev@gmail.com
 
 
 ## 🌐 Socials:
