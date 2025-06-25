@@ -27,7 +27,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 <br/>
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sadam-codes&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=sadam-codes&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sadam-codes&theme=dark)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadam-codes&layout=compact&theme=dark)
 
 
