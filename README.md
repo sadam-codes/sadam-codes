@@ -1,5 +1,9 @@
 # 💫 About Me:
-🚀 MERN Stack Developer  <br>💻 Building Web Apps with MongoDB, Express, React, Node.js  <br>🌱 Currently Learning : Nest.js <br>💬 Ask me about : MERN Stack development  <br>📫 Reach me through : sadam.fullstackdev@gmail.com
+🚀 Full Stack Developer
+💻 Building scalable web apps using React.js, Node.js, Express.js, Nest.js, MongoDB, and PostgreSQL
+🧠 Exploring the power of AI integration with LangChain and LLMs
+🌱 Currently learning Nest.js, TypeScript, and Microservices Architecture
+💬 Ask me about MERN Stack, AI-enhanced apps, REST APIs, and full-stack deployment<br>📫 Reach me through : sadam.fullstackdev@gmail.com
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/sadam_muneer/) 
@@ -31,6 +35,4 @@
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sadam-codes&theme=dark&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sadam-codes&theme=dark)  
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadam-codes&layout=compact&theme=dark&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadam-codes&layout=compact&theme=dark&exclude_repo=your-big-html-repo1,repo2)
-
 
