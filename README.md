@@ -30,4 +30,5 @@
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sadam-codes&theme=dark&count_private=true)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sadam-codes&theme=dark)  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadam-codes&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadam-codes&layout=compact&theme=dark&count_private=true&show_icons=true)
+
