@@ -81,6 +81,7 @@ I'm a passionate **Full Stack Developer** with expertise in building scalable we
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
+<p> <img src="https://img.shields.io/badge/System_Design-0A0A0A?style=for-the-badge&logo=architecture&logoColor=white" alt="System Design"/> <img src="https://img.shields.io/badge/Scalability-4B8BBE?style=for-the-badge&logo=architecture&logoColor=white" alt="Scalability"/> <img src="https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge&logo=architecture&logoColor=white" alt="Microservices"/> </p>
 
 ---
 
